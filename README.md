@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reverse List Recursively — C
 
 A recursive array-reversal exercise written in C.
@@ -301,3 +302,5 @@ Then run the generated executable from the build directory.
 This repository serves as a reference for my study of C, algorithms, recursion, and data structures.
 
 The goal is not simply to collect completed programming problems, but to document the reasoning and concepts learned while solving them.
+=======
+>>>>>>> 2014468de5866ea36157c56ad413f06eb9213b46
