@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/dev/reverse_arr/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
